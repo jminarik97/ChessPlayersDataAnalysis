@@ -1,4 +1,4 @@
-This repository contains a data exploration of a dataset containing the top rated chess players of 2021.
+This repository contains a data exploration of a dataset containing the top rated chess players of 2020.
 The dataset is filtered to only players with the Grandmaster title.
 
 This repository contains the original dataset and the data exploration which can be viewed in the Jupyter Notebook.
